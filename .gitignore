@@ -12,3 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+/.idea/runConfigurations.xml
+/.idea/migrations.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/AndroidProjectSystem.xml
